@@ -1,0 +1,17 @@
+{
+  "ItemAdd": {
+    "description": "Auto imported from components/ItemAdd.vue"
+  },
+  "ItemDelete": {
+    "description": "Auto imported from components/ItemDelete.vue"
+  },
+  "ItemFilter": {
+    "description": "Auto imported from components/ItemFilter.vue"
+  },
+  "ItemTable": {
+    "description": "Auto imported from components/ItemTable.vue"
+  },
+  "LangSwitcher": {
+    "description": "Auto imported from components/LangSwitcher.vue"
+  }
+}
